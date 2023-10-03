@@ -10,9 +10,12 @@
  　[設備管理の匠WEB版操作マニュアルVer7.docx](https://github.com/soja-suidou/shisetu_kanri_tenken/blob/main/%E8%A8%AD%E5%82%99%E7%AE%A1%E7%90%86%E3%81%AE%E5%8C%A0WEB%E7%89%88%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%ABVer7.docx) 　　![image](https://github.com/soja-suidou/shisetu_kanri_tenken/assets/139528738/1f6ceda6-cf3b-456a-a86b-90c8184c0dc1)　をクリックするとダウンロードが出来ます  
   
 ## 関連情報  
+　[水道施設遠隔監視システム](https://github.com/soja-suidou/shisetu_kanri_tenken/blob/main/%E9%81%A0%E9%9A%94%E7%9B%A3%E8%A6%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.md)  
+　　　施設の最新状態を見ることができます
+
 　[水道台帳（ＧＩＳ）](https://github.com/soja-suidou/shisetu_kanri_tenken/blob/main/%E6%B0%B4%E9%81%93%E5%8F%B0%E5%B8%B3%EF%BC%88%EF%BC%A7%EF%BC%A9%EF%BC%B3%EF%BC%89.md)  
-　　施設の位置情報や管路の関係等を見ることができます  
-　　管路情報は漏水対応時には必ず確認してください  
+　　　施設の位置情報や管路の関係等を見ることができます  
+　　　管路情報は漏水対応時には必ず確認してください  
 
 ---
 ## システム構築の手順は
