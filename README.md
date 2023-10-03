@@ -5,6 +5,7 @@
 
 # 匠運用ルール  
 　[緊急対応業務（施設）入力方法](https://github.com/soja-suidou/shisetu_kanri_tenken/blob/main/%E7%B7%8A%E6%80%A5%E5%AF%BE%E5%BF%9C%E6%A5%AD%E5%8B%99%EF%BC%88%E6%96%BD%E8%A8%AD%EF%BC%89%E5%85%A5%E5%8A%9B%E6%96%B9%E6%B3%95.md)  
+　[緊急対応業務（管路等）入力方法](https://github.com/soja-suidou/shisetu_kanri_tenken/blob/main/%E7%B7%8A%E6%80%A5%E5%AF%BE%E5%BF%9C%E6%A5%AD%E5%8B%99%EF%BC%88%E7%AE%A1%E8%B7%AF%E7%AD%89%EF%BC%89%E5%85%A5%E5%8A%9B%E6%96%B9%E6%B3%95.md)
 
 # システム構築の手順は
 （１）業務打合せ　　　　　　　　　　　　　　　　　１人  
